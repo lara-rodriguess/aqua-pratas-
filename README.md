@@ -5,7 +5,7 @@ Site institucional e catálogo de joias em prata 925
 
 Integrantes e Papéis:
 Lara Rodrigues - Desenvolvedora - Estruturação das páginas em HTML e CSS, desenvolvimento da interface e testes de responsividade.
-Maria Lidielma - Designer - Criação do layout - Escolha de paleta e tipografia.
+Lidielma Maria- Designer - Criação do layout - Escolha de paleta e tipografia.
 
 Tema: Acessórios e joias em prata 925.
 
@@ -68,8 +68,8 @@ Etapas Realizadas
 | Data       | Etapa                                          | Responsável     |
 | ---------- | ---------------------------------------------- | --------------  |
 | 09/10/2025 | Escolha do tema e levantamento de requisitos   | Lara e Lidielma |
-| 11/10/2025 | Criação da identidade visual e paleta de cores | Maria Lidielma  |
-| 11/10/2025 | Protótipo no Figma e ajustes de layout         | Maria Lidielma  |
+| 11/10/2025 | Criação da identidade visual e paleta de cores | Lidielma Maria  |
+| 11/10/2025 | Protótipo no Figma e ajustes de layout         | Lidielma Maria  |
 | 12/10/2025 | Desenvolvimento das páginas HTML               | Lara Rodrigues  |
 | 13/10/2025 | Aplicação do CSS e responsividade              | Lara Rodrigues  |
 | 15/10/2025 | Revisão geral e testes finais                  | Lara e Lidielma |
