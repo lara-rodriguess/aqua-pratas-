@@ -1,5 +1,4 @@
-Nome do Projeto:
-Aqua Pratas
+Nome do Projeto: Aqua Pratas
 
 Tipo:
 Site institucional e catálogo de joias em prata 925
@@ -30,34 +29,40 @@ Página “Sobre nós”
 Página “Contato” (com formulário funcional e informações)
 
 Estrutura de Pastas e Arquivos:
+
 AquaPratas/
 
-index.html
-servicos.html
-sobre.html
-contato.html
 
-css/
-style.css
+|---index.html
 
-img/
-logo.jpg
-hero2.jpg
-equipe.jpg
-anel-1.jpg
-anel-2.jpg
-anel-3.jpg
-pulseira-1.jpg
-pulseira-2.jpg
-pulseira-3.jpg
-brinco-1.jpg
-brinco-2.jpg
-brinco-3.jpg
-berloque-1.jpg
-berloque-2.jpg
-berloque-3.jpg
 
-README.md
+|---servicos.html
+
+
+|---sobre.html
+
+
+|---contato.html
+
+|----css/style.css
+
+|-------img/
+
+|---logo.jpg
+
+|---hero2.jpg
+
+|---equipe.jpg
+
+|---anel-1.jpg; anel-2.jpg; anel-3.jpg
+
+|---pulseira-1.jpg;pulseira-2.jpg; pulseira-3.jpg
+
+|---brinco-1.jpg; brinco-2.jpg; brinco-3.jpg
+
+|---berloque-1.jpg; berloque-2.jpg; berloque-3.jpg
+
+ |------README.md
 
 Etapas Realizadas
 | Data       | Etapa                                          | Responsável     |
